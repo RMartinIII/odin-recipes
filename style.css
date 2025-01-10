@@ -1,0 +1,25 @@
+.main-page{
+    font-family: 'Times New Roman', serif, sans-serif;
+    background-color: rgb(216, 114, 147);
+}
+/* changes page background color to pink and addes backup fonts
+    for web browsers that don't support other font styles */
+
+.recipe{
+    font-family: 'Times New Roman', serif, sans-serif;
+    background-color: lightpink;
+}
+h1{
+    text-align: center;
+    font-size: 56px;
+}
+/* aligns title to center and changes font size */
+
+.main-list{
+    text-align: center;
+    font-size: 24px;
+    color: black;
+    font-weight: bold;
+}
+/* aligns list items to center, changes font size and color and makes
+    list items bold */
